@@ -22,3 +22,7 @@ That's it!
 ![grab-landing-page](https://github.com/PlusBitPos/Simple-ILCoin-Shopping-Cart-No-Node-/blob/master/demo.gif)
 
 # Video presentation of address generation
+![grab-landing-page](https://github.com/PlusBitPos/Simple-ILCoin-Shopping-Cart-No-Node-/blob/master/generateaddress.gif)
+
+# Video presentation of admin page (how to add/delete product & manage orders)
+![grab-landing-page](https://github.com/PlusBitPos/Simple-ILCoin-Shopping-Cart-No-Node-/blob/master/demo.gif)
