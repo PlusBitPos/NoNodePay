@@ -18,5 +18,7 @@ Access the admin panel to manage your orders and products with login.php The pas
 
 That's it!
 
+# Video presentation of checkout
+![grab-landing-page](https://github.com/PlusBitPos/Simple-ILCoin-Shopping-Cart-No-Node-/blob/master/demo.gif)
 
-
+# Video presentation of address generation
